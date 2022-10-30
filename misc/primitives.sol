@@ -1,4 +1,4 @@
-pragma solidity >=0.5.0 <0.8.0;
+pragma solidity ^0.8.1;
 
 contract Primtives {
     bool public boo = true;
